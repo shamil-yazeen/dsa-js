@@ -24,7 +24,6 @@ instead of using nested loops.
 Problems implemented:
 
 - same-frequency
-- valid-anagram
 
 ---
 
