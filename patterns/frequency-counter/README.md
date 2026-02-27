@@ -16,6 +16,8 @@ Check whether two numbers contain the same frequency of digits.
 ### 2️⃣ are-there-duplicates
 Check whether given arguments contain duplicate values.
 
+### 3️⃣  construct-note
+Check whether a message can be built from available source characters.
 ---
 
 ## When to Use This Pattern
