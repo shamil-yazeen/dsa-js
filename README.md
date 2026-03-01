@@ -26,6 +26,7 @@ Problems implemented:
 - same-frequency
 - areThereDuplicates
 - construct-Note
+- findAllDuplicates
 
 ---
 
