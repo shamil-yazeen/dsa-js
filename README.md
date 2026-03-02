@@ -9,7 +9,8 @@ Data Structures & Algorithms (DSA) patterns using JavaScript.
 dsa-js/
 │
 └── patterns/
-    └── frequency-counter/
+    ├── frequency-counter/
+    └── two-pointers/
 ```
 
 ---
@@ -24,9 +25,20 @@ instead of using nested loops.
 Problems implemented:
 
 - same-frequency
-- areThereDuplicates
-- construct-Note
-- findAllDuplicates
+- are-there-duplicates (Set version)
+- construct-note
+- find-all-duplicates
+
+---
+
+### ✅ Two Pointers
+
+Used to solve problems by maintaining two positions
+and moving them based on conditions.
+
+Problems implemented:
+
+- are-there-duplicates (sorted version)
 
 ---
 
@@ -50,12 +62,8 @@ Each solution includes:
 
 ## 🚀 Future Additions
 
-- Two Pointers
 - Sliding Window
 - Recursion
 - Divide & Conquer
 - Dynamic Programming
 - Trees & Graphs
-
----
-
