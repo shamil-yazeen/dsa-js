@@ -18,7 +18,7 @@ Check whether given arguments contain duplicate values.
 
 ### 3️⃣  construct-note
 Check whether a message can be built from available source characters.
----
+
 ### 4️⃣  find-all-duplicates
 Return all duplicate values from an array.
 
