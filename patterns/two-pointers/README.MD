@@ -10,3 +10,6 @@ and moving them based on certain conditions.
 
 ### 1️⃣ are-there-duplicates
 Check whether given arguments contain duplicate values (after sorting).
+
+### 2️⃣ is-subsequence
+Check whether one string is a subsequence of another.

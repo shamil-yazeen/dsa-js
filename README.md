@@ -39,6 +39,7 @@ and moving them based on conditions.
 Problems implemented:
 
 - are-there-duplicates (sorted version)
+- isSubsequence
 
 ---
 
