@@ -13,3 +13,6 @@ Check whether given arguments contain duplicate values (after sorting).
 
 ### 2️⃣ is-subsequence
 Check whether one string is a subsequence of another.
+
+### 3️⃣ find-pair
+Check whether a pair exists whose difference equals a target value.

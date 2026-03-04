@@ -40,6 +40,7 @@ Problems implemented:
 
 - are-there-duplicates (sorted version)
 - isSubsequence
+- findPair
 
 ---
 
