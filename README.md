@@ -8,9 +8,12 @@ Data Structures & Algorithms (DSA) patterns using JavaScript.
 ```
 dsa-js/
 │
+├── README.md
+│
 └── patterns/
     ├── frequency-counter/
-    └── two-pointers/
+    ├── two-pointers/
+    └── sliding-window/
 ```
 
 ---
