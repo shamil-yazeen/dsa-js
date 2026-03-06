@@ -42,6 +42,15 @@ Problems implemented:
 - isSubsequence
 - findPair
 
+### ✅ Sliding Window
+
+Used to optimize problems involving
+subarrays or substrings of fixed or variable length.
+
+Problems implemented:
+
+- max-subarray-sum
+  
 ---
 
 ## 🎯 Goal
