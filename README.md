@@ -53,7 +53,7 @@ subarrays or substrings of fixed or variable length.
 Problems implemented:
 
 - max-subarray-sum
-  
+- min-subArray-len
 ---
 
 ## 🎯 Goal

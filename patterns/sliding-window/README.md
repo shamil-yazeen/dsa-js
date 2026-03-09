@@ -12,3 +12,5 @@ we reuse previous computations by adjusting a window.
 
 ### 1️⃣ max-subarray-sum
 Find the maximum sum of consecutive elements of fixed size.
+### 2️⃣ min-subarray-len
+Find the smallest subarray length whose sum is at least a target value.
