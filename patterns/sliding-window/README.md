@@ -14,3 +14,5 @@ we reuse previous computations by adjusting a window.
 Find the maximum sum of consecutive elements of fixed size.
 ### 2️⃣ min-subarray-len
 Find the smallest subarray length whose sum is at least a target value.
+### 3️⃣ find-longest-substring
+Return the length of the longest substring without repeating characters.

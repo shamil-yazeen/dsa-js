@@ -54,6 +54,7 @@ Problems implemented:
 
 - max-subarray-sum
 - min-subArray-len
+- find-longest-substring 
 ---
 
 ## 🎯 Goal
