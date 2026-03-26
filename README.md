@@ -13,7 +13,8 @@ dsa-js/
 └── patterns/
     ├── frequency-counter/
     ├── two-pointers/
-    └── sliding-window/
+    ├── sliding-window/
+    └── divide-and-conquer/
 ```
 
 ---
