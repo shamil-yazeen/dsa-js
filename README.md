@@ -57,6 +57,15 @@ Problems implemented:
 - find-longest-substring 
 ---
 
+### ✅ Divide & Conquer
+
+Used to reduce time complexity by dividing
+the problem into smaller parts.
+
+Problems implemented:
+
+- count-zeroes
+
 ## 🎯 Goal
 
 - Improve problem-solving skills
