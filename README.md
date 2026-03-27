@@ -66,6 +66,7 @@ the problem into smaller parts.
 Problems implemented:
 
 - count-zeroes
+- sorted-frequency
 
 ## 🎯 Goal
 

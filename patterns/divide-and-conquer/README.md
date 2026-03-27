@@ -13,3 +13,8 @@ where the search space is repeatedly divided in half.
 ### 1️⃣ count-zeroes
 Given a sorted binary array (1s followed by 0s),
 return the total number of zeroes using binary search.
+
+### 2️⃣ sorted-frequency
+Given a sorted array and a target value,
+return how many times the target appears.
+If the target does not exist, return -1.
