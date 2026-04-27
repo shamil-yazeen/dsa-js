@@ -67,6 +67,7 @@ Problems implemented:
 
 - count-zeroes
 - sorted-frequency
+- find-rotated-index
 
 ## 🎯 Goal
 

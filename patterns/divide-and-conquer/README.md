@@ -18,3 +18,8 @@ return the total number of zeroes using binary search.
 Given a sorted array and a target value,
 return how many times the target appears.
 If the target does not exist, return -1.
+
+### 3️⃣ find-rotated-index
+Given a rotated sorted array, return the index of a target value.
+If not found, return -1.
+The array is originally sorted but rotated at an unknown pivot.
