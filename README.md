@@ -14,7 +14,8 @@ dsa-js/
     ├── frequency-counter/
     ├── two-pointers/
     ├── sliding-window/
-    └── divide-and-conquer/
+    ├── divide-and-conquer/
+    └── recursion/
 ```
 
 ---
@@ -68,6 +69,16 @@ Problems implemented:
 - count-zeroes
 - sorted-frequency
 - find-rotated-index
+
+### ✅ Recursion
+
+Used to solve problems by breaking them into smaller subproblems
+and calling the function itself until a base case is reached.
+
+Problems implemented:
+
+-- power (exponentiation by squaring)
+
 
 ## 🎯 Goal
 
